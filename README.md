@@ -1,82 +1,116 @@
-# Hi, I'm Srishti Pandey 👋
+<div align="center">
 
-### Aspiring Software Developer | Python | SQL | Java | Data Analytics
+# 👋 Hi, I'm Srishti Pandey
 
-🎓 BCA Student  
-💻 Building practical projects and improving my problem-solving skills  
-📊 Interested in Data Analytics, Software Development & AI/ML  
-🚀 Currently learning and building projects with Python, SQL and Java
+### 💻 Aspiring Software Developer | Python • SQL • Java • Data Analytics
 
----
+BCA Student | Building Projects | Solving DSA Problems | Learning New Technologies 🚀
 
-## 🛠️ Tech Stack
-
-**Languages**
-- Python
-- Java
-- C++
-- SQL
-
-**Data & Analytics**
-- Excel
-- Power BI
-- Data Analysis
-
-**Web Development**
-- HTML
-- CSS
-- JavaScript
-
-**Tools**
-- Git
-- GitHub
-- VS Code
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:srishtisrishti19194@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/srishtiii-60">
+<img src="https://img.shields.io/badge/GitHub-srishtiii--60-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+### 👩‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js" />
+</p>
+
+### 📊 Data & Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/Excel-Data%20Analysis-green?style=for-the-badge&logo=microsoftexcel"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow?style=for-the-badge&logo=powerbi"/>
+
+<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql"/>
+
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ### 📊 Churn Analysis – Customer Intelligence
-Customer churn analysis project using data analytics techniques.
+
+A data analytics project focused on understanding customer churn, identifying patterns and generating actionable business insights.
+
+**Tech:** Python • Pandas • Data Analysis • Visualization
+
+🔗 [View Project](https://github.com/srishtiii-60/Churn-Analysis-Customer-Intelligence)
+
+---
 
 ### 🏋️ Personalized Workout & Diet Planner
-A personalized web application for workout and meal planning.
+
+A personalized web application designed for workout planning, meal planning, progress tracking and fitness preferences.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Project](https://github.com/srishtiii-60/Personalized-Workout-Diet-Planner-with-AI)
+
+---
 
 ### 🛡️ Cyborg Landing Page
-Cyber-themed responsive landing page built with HTML, CSS and JavaScript.
+
+A cyber-themed responsive landing page created using modern web development technologies.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [View Project](https://github.com/srishtiii-60/cyborg-landing-page)
+
+---
 
 ### 💻 DSA Problem Solving
-Regular practice of Data Structures & Algorithms using C++ and Python.
+
+Regular practice of Data Structures & Algorithms through coding problems and competitive programming.
+
+**Languages:** C++ • Python
+
+🔗 [View Repository](https://github.com/srishtiii-60/DSA-Python-Practice)
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-- Data Structures & Algorithms
-- SQL
-- Python
-- Power BI
-- Machine Learning
-- Software Development
-
----
-
-## 📈 My Goals
-
-- Build real-world projects
-- Improve problem-solving skills
-- Contribute to open-source
-- Secure a good software/data internship
-- Become a strong software developer
-
----
-
-## 🤝 Connect With Me
-
-📧 Email: srishtisrishti19194@gmail.com
-
-💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/srishti-pandey-3012b026b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPDG%2F5GIKRiqiGdeBcnu69A%3D%3D)
-
----
-
-⭐ Thanks for visiting my profile!
+```text
+DSA & Problem Solving
+        ↓
+Python & SQL
+        ↓
+Data Analytics
+        ↓
+Power BI
+        ↓
+Machine Learning
+        ↓
+Software Development
