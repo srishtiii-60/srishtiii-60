@@ -14,7 +14,7 @@ BCA Student | Building Projects | Solving DSA Problems | Learning New Technologi
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href=https://www.linkedin.com/in/srishti-pandey-3012b026b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIfGhvIzjSTCCVWY35%2BAKng%3D%3D
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
