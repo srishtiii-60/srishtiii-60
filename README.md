@@ -108,3 +108,26 @@ Regular practice of Data Structures & Algorithms through coding problems and com
 <br>
 
 ## 🌱 Currently Leveling Up In
+
+<div align="center">
+
+**DSA & Problem Solving** → **Python & SQL** → **Data Analytics** → **Power BI** → **Machine Learning** → **Software Development**
+
+</div>
+
+<br>
+
+## 💭 Quote I Live By
+
+<div align="center">
+
+> *"In order to be irreplaceable, one must always be different."*
+> — Coco Chanel
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
