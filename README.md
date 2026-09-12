@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Srishti%20%F0%9F%91%8B&fontSize=38&fontColor=00F5D4&animation=twinkling&fontAlignY=35&desc=Turning%20Coffee%20%E2%98%95%20into%20Code%20%3C%2F%3E&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+in+the+making+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI;Debugging+life%2C+one+line+at+a+time;AI+%26+Cybersecurity+Enthusiast&font=Fira+Code&center=true&width=600&height=45&color=00F5D4&vCenter=true&size=22&pause=1500" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+in+the+making;Python+%7C+SQL+%7C+Power+BI;Debugging+life%2C+one+line+at+a+time;AI+%26+Cybersecurity+Enthusiast&font=Fira+Code&center=true&width=600&height=45&color=00F5D4&vCenter=true&size=22&pause=1500" />
 
 <br>
 
@@ -12,7 +12,10 @@
 
 </div>
 
-<img src="https://github.com/srishtiii-60/srishtiii-60/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/srishtiii-60/srishtiii-60/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github.com/srishtiii-60/srishtiii-60/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 ## `whoami`
 
