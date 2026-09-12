@@ -17,14 +17,14 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
+\`\`\`yaml
 name: Srishti Pandey
 role: Aspiring Software Developer
 education: BCA Student
 currently_exploring: [Python, SQL, Java, Data Analytics]
 currently_doing: [Solving DSA problems, Building projects, Learning new tech]
 fun_fact: "Turns coffee ☕ into code 💻"
-```
+\`\`\`
 
 <br>
 
@@ -44,6 +44,7 @@ fun_fact: "Turns coffee ☕ into code 💻"
 **Databases & Tools**
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -84,9 +85,26 @@ fun_fact: "Turns coffee ☕ into code 💻"
 
 | 🔗 Project | 📝 Description | 🛠️ Tech |
 |---|---|---|
-| [Project Name](https://github.com/srishtiii-60) | One-line description of what it does | Python, SQL |
-| [Project Name](https://github.com/srishtiii-60) | One-line description of what it does | Java |
-| [Project Name](https://github.com/srishtiii-60) | One-line description of what it does | HTML, CSS, JS |
+| [ChatGPT Reviews Analysis](https://github.com/srishtiii-60/ChatGPT-Reviews-Analysis) | Sentiment Analysis & EDA on ChatGPT user reviews | Python, Jupyter Notebook |
+| [Personalized Workout & Diet Planner](https://github.com/srishtiii-60/Personalized-Workout-Diet-Planner-with-AI) | AI-powered fitness app for workout planning, meal planning & progress tracking | HTML, CSS, JavaScript |
+| [Cyborg Landing Page](https://github.com/srishtiii-60/cyborg-landing-page) | Cyber-themed responsive landing page | HTML, CSS, JavaScript |
+| [Stock Portfolio Tracker](https://github.com/srishtiii-60/CodeAlpha_StockPortfolioTracker) | Tracks stock investments, calculates total value using predefined prices | Python |
+| [Task Automation Tool](https://github.com/srishtiii-60/CodeAlpha_TaskAutomation) | Extracts emails from text files using Regex & file handling | Python |
+| [Hangman Game](https://github.com/srishtiii-60/CodeAlpha_HangmanGame) | Text-based Hangman game with letter-guessing logic | Python |
+
+</div>
+
+<br>
+
+## 🧩 DSA Problem Solving
+
+<div align="center">
+
+Regular practice of Data Structures & Algorithms through coding problems and competitive programming.
+
+**Languages:** C++ • Python
+
+[🔗 View Repository](https://github.com/srishtiii-60)
 
 </div>
 
@@ -94,9 +112,19 @@ fun_fact: "Turns coffee ☕ into code 💻"
 
 ## 🌱 Currently Leveling Up In
 
-- 🧩 Data Structures & Algorithms
-- 🗄️ Advanced SQL & Database Design
-- 📊 Data Analytics & Visualization
+\`\`\`
+DSA & Problem Solving
+        ↓
+Python & SQL
+        ↓
+Data Analytics
+        ↓
+Power BI
+        ↓
+Machine Learning
+        ↓
+Software Development
+\`\`\`
 
 <br>
 
