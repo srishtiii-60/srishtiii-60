@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Srishti+Pandey;Aspiring+Software+Developer;Data+Analytics+%7C+SQL+%7C+Python;BCA+Student&font=Fira+Code&center=true&width=440&height=45&color=2E86AB&vCenter=true&size=22" />
-
-**BCA Student · Data Analytics · Software Development**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:1B4965&height=180&section=header&text=Srishti%20Pandey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Developer%20%7C%20Data%20Analytics%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishti-pandey-3012b026b/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:srishtisrishti19194@gmail.com)
@@ -20,23 +18,14 @@ Computer Applications student with hands-on experience in Data Analytics, SQL, A
 
 ## Technical Skills
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<div align="center">
 
-**Data & Analytics**
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,git,github,vscode,powerbi&theme=dark" />
 
-**Web & Tools**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+</div>
+
+**Data & Analytics:** Pandas · NumPy · Data Visualization · Power BI · Advanced Excel
+**Core Concepts:** Data Structures & Algorithms · Artificial Intelligence · Machine Learning Fundamentals
 
 <br>
 
@@ -55,25 +44,42 @@ Hands-on exposure to cybersecurity concepts, risk assessment, and industry best 
 
 ## Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 **[Churn Analysis & Customer Intelligence](https://github.com/srishtiii-60/Churn-Analysis-Customer-Intelligence)**
-End-to-end customer churn analysis using 15+ SQL queries to identify behavioural patterns and retention opportunities. Built data-driven KPIs and visualizations for business decision-making.
-`Python` `SQL` `Pandas` `Data Visualization`
+End-to-end customer churn analysis using 15+ SQL queries to uncover behavioural patterns and retention opportunities. Built data-driven KPIs and visualizations for business decision-making.
+`Python` `SQL` `Pandas`
+
+</td>
+<td width="50%" valign="top">
 
 **[Personalized Workout & Diet Planner](https://github.com/srishtiii-60/Personalized-Workout-Diet-Planner-with-AI)**
-A responsive fitness and nutrition planning web app with workout tracking, calorie/macro breakdowns, meal-swap suggestions, and a chatbot-style assistant.
+A responsive fitness and nutrition web app with workout tracking, calorie/macro breakdowns, meal-swap suggestions, and a chatbot-style assistant.
 `HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **[ChatGPT Reviews Analysis](https://github.com/srishtiii-60/ChatGPT-Reviews-Analysis)**
 Sentiment analysis and EDA on ChatGPT user reviews using NLP to identify satisfaction patterns and recurring feedback themes.
-`Python` `NLP` `Pandas` `Jupyter Notebook`
+`Python` `NLP` `Jupyter`
+
+</td>
+<td width="50%" valign="top">
 
 **[Cyborg Landing Page](https://github.com/srishtiii-60/cyborg-landing-page)**
 A cyber-themed, responsive landing page built with modern front-end practices.
 `HTML` `CSS` `JavaScript`
 
-**[DSA Problem Solving](https://github.com/srishtiii-60/DSA-Python-Practice)**
-Ongoing practice of Data Structures & Algorithms through coding problems and competitive programming.
-`C++` `Python`
+</td>
+</tr>
+</table>
+
+**[DSA Problem Solving](https://github.com/srishtiii-60/DSA-Python-Practice)** — Ongoing practice of Data Structures & Algorithms through coding problems and competitive programming. `C++` `Python`
 
 <br>
 
@@ -94,10 +100,23 @@ Shri Ramswaroop Memorial University | 2024 – 2027 | CGPA: 7.5
 
 <br>
 
+## GitHub Stats
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=srishtiii-60&style=flat-square&color=2E86AB)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=srishtiii-60&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=srishtiii-60&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=srishtiii-60&style=flat-square&color=2E86AB" />
 
 *Open to opportunities in Software Development and Data Analytics*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4965,100:2E86AB&height=100&section=footer" width="100%"/>
 
 </div>
