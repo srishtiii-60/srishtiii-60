@@ -131,7 +131,10 @@ Software Development
 ## 💭 Quote I Live By
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+> *"In order to be irreplaceable, one must always be different."*  
+> — Coco Chanel
+
 </div>
 
 <br>
