@@ -17,14 +17,11 @@
 
 ## 🧑‍💻 About Me
 
-\`\`\`yaml
-name: Srishti Pandey
-role: Aspiring Software Developer
-education: BCA Student
-currently_exploring: [Python, SQL, Java, Data Analytics]
-currently_doing: [Solving DSA problems, Building projects, Learning new tech]
-fun_fact: "Turns coffee ☕ into code 💻"
-\`\`\`
+- 🎓 **Education:** BCA Student
+- 💻 **Role:** Aspiring Software Developer
+- 🔍 **Currently Exploring:** Python, SQL, Java, Data Analytics
+- 🚀 **Currently Doing:** Solving DSA problems, Building projects, Learning new tech
+- ☕ **Fun Fact:** Turns coffee into code
 
 <br>
 
@@ -111,34 +108,3 @@ Regular practice of Data Structures & Algorithms through coding problems and com
 <br>
 
 ## 🌱 Currently Leveling Up In
-
-\`\`\`
-DSA & Problem Solving
-        ↓
-Python & SQL
-        ↓
-Data Analytics
-        ↓
-Power BI
-        ↓
-Machine Learning
-        ↓
-Software Development
-\`\`\`
-
-<br>
-
-## 💭 Quote I Live By
-
-<div align="center">
-
-> *"In order to be irreplaceable, one must always be different."*  
-> — Coco Chanel
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-</div>
