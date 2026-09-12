@@ -1,102 +1,121 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Srishti Pandey</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Srishti%20%F0%9F%91%8B&fontSize=38&fontColor=00F5D4&animation=twinkling&fontAlignY=35&desc=Turning%20Coffee%20%E2%98%95%20into%20Code%20%3C%2F%3E&descAlignY=55&descSize=18&descColor=ffffff" width="100%"/>
+<p align="center">
+💻 Aspiring Software Developer | Python • SQL • Java • Data Analytics
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Data+Analyst+in+the+making;Python+%7C+SQL+%7C+Power+BI;Debugging+life%2C+one+line+at+a+time;AI+%26+Cybersecurity+Enthusiast&font=Fira+Code&center=true&width=600&height=45&color=00F5D4&vCenter=true&size=22&pause=1500" />
+<p align="center">
+🎓 BCA Student | 🚀 Building Projects | 🧩 Solving DSA Problems | 📚 Learning New Technologies
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srishti-pandey-3012b026b/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srishtisrishti19194@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srishtiii-60)
+<hr>
 
-</div>
+## 🌐 Connect With Me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/srishtiii-60/srishtiii-60/blob/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://github.com/srishtiii-60/srishtiii-60/blob/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<p align="left">
+<a href="https://www.linkedin.com/in/srishti-pandey-3012b026b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:srishtisrishti19194@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://github.com/srishtiii-60">
+<img src="https://img.shields.io/badge/GitHub-srishtiii--60-black?style=for-the-badge&logo=github" />
+</a>
+</p>
 
-## whoami
+<hr>
 
-    class Srishti:
-        def __init__(self):
-            self.role = "BCA Student & Aspiring Software Developer"
-            self.focus = ["Data Analytics", "SQL", "AI", "Cybersecurity"]
-            self.currently_learning = "Machine Learning + Power BI"
-            self.fun_fact = "Debug first, panic later"
+## 🛠 Tech Stack
 
-        def say_hi(self):
-            print("Thanks for stopping by my profile!")
+**Programming Languages**
 
-## Tech Arsenal
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-<div align="center">
+**Data & Analytics**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,git,github,vscode,powerbi&theme=dark&perline=6" />
+<p align="left">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Analysis-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Analytics-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-blue?style=for-the-badge" />
+</p>
 
-</div>
+**Tools & Technologies**
 
-## Where I've Worked
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-**AI for Sustainability Virtual Intern** — 1M1B × AICTE × IBM SkillsBuild
-Built an AI-powered sustainability solution using LLMs, IBM Granite Models & RAG frameworks.
+<hr>
 
-**Artificial Intelligence Intern** — Edunet Foundation × AICTE × IBM SkillsBuild
-Project-based AI learning and development under mentor guidance.
+## 🚀 Featured Projects
 
-**Cybersecurity Intern** — Elevate Labs × Skill India × MSME, Govt. of India
-Hands-on exposure to security concepts, risk assessment & industry best practices.
+### 📊 [Churn Analysis – Customer Intelligence](https://github.com/srishtiii-60/Churn-Analysis-Customer-Intelligence)
+End-to-end customer churn analysis using 15+ SQL queries to identify behaviour patterns, churn drivers, and retention opportunities. Built data-driven KPIs and visualizations to support business decision-making.
+**Tech:** Python • SQL • Pandas • Data Analysis • Visualization
 
-## Things I've Built
+### 🏋️ [Personalized Workout & Diet Planner](https://github.com/srishtiii-60/Personalized-Workout-Diet-Planner-with-AI)
+A responsive fitness and nutrition planning web app with personalized workouts, meal planning, progress tracking, calorie/macro overview, smart meal-swap, and a chatbot-style assistant.
+**Tech:** HTML • CSS • JavaScript
 
-**[Churn Analysis & Customer Intelligence](https://github.com/srishtiii-60/Churn-Analysis-Customer-Intelligence)**
-15+ SQL queries dissecting customer behaviour to predict churn & unlock retention insights.
-Python · SQL · Pandas
+### 💬 [ChatGPT Reviews Analysis](https://github.com/srishtiii-60/ChatGPT-Reviews-Analysis)
+Sentiment analysis and EDA on ChatGPT user reviews using NLP techniques to classify feedback, identify recurring themes, and visualize sentiment distribution.
+**Tech:** Python • NLP • Pandas • Jupyter Notebook
 
-**[AI Workout & Diet Planner](https://github.com/srishtiii-60/Personalized-Workout-Diet-Planner-with-AI)**
-Smart fitness app with meal-swaps, macro tracking & a chatbot-style assistant.
-HTML · CSS · JS
+### 🛡️ [Cyborg Landing Page](https://github.com/srishtiii-60/cyborg-landing-page)
+A cyber-themed responsive landing page created using modern web development technologies.
+**Tech:** HTML • CSS • JavaScript
 
-**[ChatGPT Reviews Analysis](https://github.com/srishtiii-60/ChatGPT-Reviews-Analysis)**
-NLP-powered sentiment analysis uncovering what users really think.
-Python · NLP · Jupyter
+### 💻 [DSA Problem Solving](https://github.com/srishtiii-60/DSA-Python-Practice)
+Regular practice of Data Structures & Algorithms through coding problems and competitive programming.
+**Languages:** C++ • Python
 
-**[Cyborg Landing Page](https://github.com/srishtiii-60/cyborg-landing-page)**
-A cyberpunk-themed, fully responsive landing page.
-HTML · CSS · JS
+<hr>
 
-**[DSA Problem Solving](https://github.com/srishtiii-60/DSA-Python-Practice)**
-Grinding DSA one problem at a time in C++ & Python.
+## 💼 Experience
 
-## Certifications
+- **AI for Sustainability Virtual Intern** — 1M1B × AICTE × IBM SkillsBuild — Worked with AI/ML, LLMs, IBM Granite Models & RAG frameworks; built an AI-powered sustainability solution.
+- **Artificial Intelligence Intern** — Edunet Foundation × AICTE × IBM SkillsBuild — Project-based AI learning and development under mentor guidance.
+- **Cyber Security Intern** — Elevate Labs × Skill India × MSME, Govt. of India — Practical exposure to cybersecurity concepts, risk assessment, and best practices.
 
-- NPTEL — User Centric Computing (Elite Certificate)
-- Tata Group (Forage) — GenAI Powered Data Analytics Virtual Experience
-- Elevate Labs — Cybersecurity Internship
-- IBM SkillsBuild — Artificial Intelligence Fundamentals
-- IBM SkillsBuild — Machine Learning for Data Science Projects
+<hr>
 
-## Education
+## 📜 Certifications
 
-**Bachelor of Computer Applications (BCA)**
-Shri Ramswaroop Memorial University | 2024 – 2027 | CGPA: 7.5
+- 🏅 **NPTEL** — User Centric Computing (Elite Certificate)
+- 🏅 **Tata Group (Forage)** — GenAI Powered Data Analytics Virtual Experience
+- 🏅 **Elevate Labs** — Cyber Security Internship
+- 🏅 **IBM SkillsBuild** — Artificial Intelligence Fundamentals
+- 🏅 **IBM SkillsBuild** — Machine Learning for Data Science Projects
+- 🏅 **1M1B × AICTE × IBM SkillsBuild** — AI for Sustainability Virtual Internship
+- 🏅 **Edunet Foundation × AICTE × IBM SkillsBuild** — Artificial Intelligence Internship
 
-## GitHub Vibes
+<hr>
 
-<div align="center">
+## 🎓 Education
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=srishtiii-60&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=srishtiii-60&theme=synthwave&hide_border=true" />
+**Bachelor of Computer Applications (BCA)** — Shri Ramswaroop Memorial University | 2024–2027 | CGPA: 7.5
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srishtiii-60&theme=synthwave&hide_border=true" width="98%"/>
+<hr>
 
-</div>
+## 📚 Currently Learning
 
-<div align="center">
+`DSA & Problem Solving` → `Python & SQL` → `Data Analytics` → `Power BI` → `Machine Learning` → `Software Development`
 
-<img src="https://komarev.com/ghpvc/?username=srishtiii-60&style=for-the-badge&color=blueviolet" />
+<hr>
 
-*"Code. Break. Fix. Repeat."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+⭐ Feel free to explore my repositories and connect with me!
+</p>
